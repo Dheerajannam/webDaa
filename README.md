@@ -1,4 +1,4 @@
-<table style="height: 120px;" width="203">
+<table style="height: 120px;" width="204">
 <tbody>
 <tr>
 <td style="width: 193.76px;">

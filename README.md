@@ -10,7 +10,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h1>DESIGN ANALYSIS AND ALGORITHM</h1>
+<h1>DESIGN AND ANALYSIS  ALGORITHM</h1>
 <p>An algorithm is a set of steps of operations to solve a problem performing calculation, data processing, and automated reasoning tasks. An algorithm is an efficient method that can be expressed within finite amount of time and space.</p>
 <p>An algorithm is the best way to represent the solution of a particular problem in a very simple and efficient way. If we have an algorithm for a specific problem, then we can implement it in any programming language, meaning that the&nbsp;<strong>algorithm is independent from any programming languages</strong>.</p>
 <h2>Algorithm Design</h2>
